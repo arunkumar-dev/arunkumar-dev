@@ -1,5 +1,20 @@
-### Hi there 👋
-```markdown
+# Hi, I'm Arun 👋
+
+## About Me
+- 💼 Working as Software Engineer.
+
+## Skills
+- Python
+- PHP
+- JavaScript
+- Automation
+- AWS
+- Java
+- Git
+- Docker
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/arunkofficial/)
 <!--
 **arunkumar-dev/arunkumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
